@@ -21,4 +21,4 @@ Name - Mohite Swara Nandkishor
 Email - mswara357@gmail.com  
 University - Indian Institute of Technology, Kharagpur                                                                                                           
 
-# GitHub Link: 
+# GitHub Link: https://github.com/mSwara/Diabetes-Prediction-Project
